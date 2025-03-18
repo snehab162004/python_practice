@@ -1,0 +1,3 @@
+I am Python
+Python is used in Data Analytics and backend and AIML
+VScode, Pycharm and JUpyter can use to code me.
